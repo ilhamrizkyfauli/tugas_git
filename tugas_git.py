@@ -80,6 +80,6 @@ for lokasi, data in data_panen.items():
     else:
         print(f" {lokasi} dalam kondisi baik.")
 
-#tugas pak diash
 #ilham rizky fauli
 #152023220
+#tugas pak diash
